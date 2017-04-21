@@ -1,0 +1,21 @@
+{
+  "name": "presentacion",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "git@github.com:antropoloops/presentacion.git",
+  "homepage": "https://antropoloops.github.io/presentacion",
+  "scripts": {
+    "start": "reveal-md slides.md",
+    "build": "reveal-md slides.md --static build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "authors": [
+    "danigb <danigb@gmail.com>"
+  ],
+  "license": "CC",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "reveal-md": "^0.1.3"
+  }
+}
