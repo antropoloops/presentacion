@@ -6,7 +6,7 @@
   "homepage": "https://antropoloops.github.io/presentacion",
   "scripts": {
     "start": "reveal-md slides.md",
-    "build": "reveal-md slides.md --static build",
+    "build": "reveal-md slides.md --static build && cp -r assets build/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
