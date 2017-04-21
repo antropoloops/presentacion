@@ -32,6 +32,10 @@ Antropoloops es un proyecto artístico que **remezcla** fragmentos de músicas t
 
 ---
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/oatdM-jsVaI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+---
+
 
 <!-- .slide: data-background="./assets/antioch.jpg" -->
 
@@ -58,6 +62,14 @@ Y se desarrolla en tres etapas:
 - Selección
 - Composición
 
+---
+
+
+Proyecto piloto de 3 años en un centro de primaria y otro de secundaria
+
+#### Queremos que sea
+# Replicable
+
 
 ---
 
@@ -66,7 +78,37 @@ Y se desarrolla en tres etapas:
 ---
 
 
+# Músicas tradicionales
+
+---
+
+# + Remezcla
+#### (¿Música electrónica?)
+
+---
+
+##### Música
+
+- Ampliar el repertorio musical
+- Patrimonio como algo vivo y reutilizable
+- Diálogo intercultural e intergeneracional
+
+---
+
 # 2. Didáctica
+
+---
+
+##### Didáctica
+
+- Música como vehículo de acercamiento al otro
+- Procesos de creación colectiva
+- Creación musical como herramienta para fomentar la cooperación, la inclusión y la solidaridad
+
+---
+
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/GcWyKt4_S6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ---
 
@@ -85,12 +127,32 @@ Y se desarrolla en tres etapas:
 
 ## Tecnología para:
 
+- Crear **interfaces físicos** que sirvan para interaccionar con la remezcla
+- **Visibilizar** los procesos de creación
+
+---
+
+En vez de esto
+
+_mucha gente mirando su móvil_
+
+---
+
+Esto
+
+_alumnos interaccionando en el aula_
+
+---
+
+## Tecnología para:
+
 - Empoderar: herramientas potentes y fáciles de usar
 - Desmitificar: construir aparatos electrónicos utilizando procesos y materiales sencillos
 
 ---
 
 #### Tecnología
+
 
 
 
@@ -112,3 +174,7 @@ Y se desarrolla en tres etapas:
 - **Exploración abierta**: inspirar diversas posibilidades
   - Variedad de materiales
   - Variedad de géneros
+
+---
+
+<!-- .slide: data-background="./assets/dos.jpg" -->
